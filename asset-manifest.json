@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.db0776e8.css",
+    "main.js": "./static/js/main.e8eebed5.js",
+    "static/media/lady_standing2.jpg": "./static/media/lady_standing2.bfbe2ca833b8f11f4721.jpg",
+    "static/media/mahima.png": "./static/media/mahima.d1ffedfe21d918c6489a.png",
+    "static/media/avatar.png": "./static/media/avatar.873209176e23f01cba5b.png",
+    "static/media/phones2.png": "./static/media/phones2.bc7d9b6741078d362b3c.png",
+    "static/media/instagram-brands-solid.svg": "./static/media/instagram-brands-solid.d59520a206ffbc6aadcff97bda2265ff.svg",
+    "index.html": "./index.html",
+    "static/media/linkedin-brands-solid.svg": "./static/media/linkedin-brands-solid.e87aca0b63dfabaeafeeb453ad4330e5.svg",
+    "static/media/bars-solid.svg": "./static/media/bars-solid.516fd46ce36996deb97468320682f8a0.svg",
+    "static/media/x-solid.svg": "./static/media/x-solid.de4d3f07393b382b84ef486ace1b2391.svg",
+    "main.db0776e8.css.map": "./static/css/main.db0776e8.css.map",
+    "main.e8eebed5.js.map": "./static/js/main.e8eebed5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0776e8.css",
+    "static/js/main.e8eebed5.js"
+  ]
+}
